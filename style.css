@@ -1,0 +1,22 @@
+body {
+  background-color: #FFF8E7;
+  color: #5A1E1E;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1, h2, h3 {
+  color: #A83B3B;
+}
+
+a {
+  color: #A83B3B;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.bg-cream {
+  background-color: #FFF8E7;
+}
